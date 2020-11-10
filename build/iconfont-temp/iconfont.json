@@ -1,0 +1,23 @@
+{
+  "id": "2191076",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13435527",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "6216006",
+      "name": "收 藏",
+      "font_class": "star-opp",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
